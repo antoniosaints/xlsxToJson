@@ -1,0 +1,17 @@
+{
+    "name": "antonio/slxjson",
+    "autoload": {
+        "psr-4": {
+            "Antonio\\Slxjson\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "antoniosaints",
+            "email": "costaantonio883@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}

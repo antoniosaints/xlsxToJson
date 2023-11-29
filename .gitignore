@@ -1,0 +1,9 @@
+# Ignorar os diretórios vendor e o autoload gerado pelo Composer
+/vendor/
+/vendor/autoload.php
+
+# Ignorar os arquivos de lock do Composer
+/composer.lock
+
+# Ignorar arquivos de cache do Composer
+/.phpunit.result.cache
